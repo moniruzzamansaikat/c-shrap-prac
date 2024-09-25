@@ -1,2 +1,2 @@
-﻿// (new Strings()).Main(); 
+﻿(new Strings()).Main(); 
 

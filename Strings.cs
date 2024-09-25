@@ -1,6 +1,6 @@
 using System.Reflection.Metadata;
 
-public class Strings
+public class Strings : Helps
 {
   public void Main()
   {
@@ -8,6 +8,8 @@ public class Strings
     string tame = (string)name.Clone(); // 
 
     tame = "Taikat";
+
+    PrintLn(tame);
     // Console.WriteLine("{0} and {1}", name, tame);
 
     string a = "Abc";
@@ -66,15 +68,5 @@ public class Strings
     // PrintLn(string.IsNullOrEmpty("no")); // False
 
     // PrintLn(string.IsNullOrWhiteSpace("             ")); // True
-  }
-
-  public static void Print(object o)
-  {
-    Console.Write(o);
-  }
-
-  public static void PrintLn(object o)
-  {
-    Console.WriteLine(o);
   }
 }
