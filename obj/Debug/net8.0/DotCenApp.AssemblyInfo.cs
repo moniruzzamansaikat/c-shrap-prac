@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotCenApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f8feb63423a5aa6ecd02c1a784056e0f7c2bb2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77d91f15783f0839eacc80126696a0c56f2c268")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotCenApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotCenApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
