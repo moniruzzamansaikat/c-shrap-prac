@@ -1,0 +1,15 @@
+D:\dotnet\project-creations\DotCenApp\bin\Debug\net8.0\DotCenApp.exe
+D:\dotnet\project-creations\DotCenApp\bin\Debug\net8.0\DotCenApp.deps.json
+D:\dotnet\project-creations\DotCenApp\bin\Debug\net8.0\DotCenApp.runtimeconfig.json
+D:\dotnet\project-creations\DotCenApp\bin\Debug\net8.0\DotCenApp.dll
+D:\dotnet\project-creations\DotCenApp\bin\Debug\net8.0\DotCenApp.pdb
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\DotCenApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\DotCenApp.AssemblyInfoInputs.cache
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\DotCenApp.AssemblyInfo.cs
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\DotCenApp.csproj.CoreCompileInputs.cache
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\DotCenApp.dll
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\refint\DotCenApp.dll
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\DotCenApp.pdb
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\DotCenApp.genruntimeconfig.cache
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\ref\DotCenApp.dll
+D:\dotnet\project-creations\DotCenApp\obj\Debug\net8.0\DotCenApp.sourcelink.json
