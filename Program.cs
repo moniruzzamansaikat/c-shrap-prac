@@ -1,3 +1,2 @@
-﻿Strings s = new Strings();
+﻿// (new Strings()).Main(); 
 
-s.Main();
